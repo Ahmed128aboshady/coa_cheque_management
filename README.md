@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="coa_cheque_management/static/description/coa_logo.png" width="120" height="120" alt="COA Egypt Logo" />
   <h1>COA Cheque Management | Odoo Financial App</h1>
   <p><strong>Comprehensive Lifecycle and Accounting Management for Incoming &amp; Outgoing Cheques</strong></p>

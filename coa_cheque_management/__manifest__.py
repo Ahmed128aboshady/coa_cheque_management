@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 {
     'name': "COA Cheque Management | Cheque Lifecycle & Accounting",
     'summary': "Complete lifecycle management for incoming customer PDCs and outgoing vendor cheques with automated accounting entries",
